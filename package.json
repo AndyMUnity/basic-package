@@ -1,0 +1,10 @@
+{
+    "name": "com.andym.testpackage",
+    "displayName": "Unity Package Example",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "description": "test package for use with the package manager.",
+    "keywords": ["test", "potato"],
+    "category": "",
+    "dependencies": {}
+}
